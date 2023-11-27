@@ -1,3 +1,5 @@
-.gitattributes
+cache/*
 index.php
 todo.txt
+/vendor/
+/generator/

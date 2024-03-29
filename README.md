@@ -13,7 +13,7 @@ In the language folders (inside `data/countries`) you will find files named in t
 |File names | Content |
 |:---:|:---
 | <a name="world"></a>*world.** | Files named like this contain all the **249** countries, territories, and areas of geographical interest that have an officially assigned *ISO 3166-1* code.
-| <a name="countries"></a>*countries.** | Files named like this contain **195** entries made up from the 193 sovereign states (commonly referred to as *countries*) that are members of the [United&nbsp;Nations (UN)](https://www.un.org/about-us/member-states) plus the 2 [observer states](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_observers) of *Palestine* and the *Vatican City State*.
+| <a name="countries"></a>*countries.** | Files named like this contain the **193** sovereign states (commonly referred to as *countries*) that are members of the [United&nbsp;Nations (UN)](https://www.un.org/about-us/member-states) .
 
 > Note that there are 206 sovereign states in the world, the 11 states that are missing from the *countries* list being the ones having their sovereignty disputed. See the list of [sovereign states](https://en.wikipedia.org/wiki/List_of_sovereign_states) with information on their status and recognition of their sovereignty.
 
@@ -27,7 +27,7 @@ The files contain:
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 <br><small><a name="footnote2"><sup>2</sup></a> ISO 3166-1 alpha codes are uppercase but this library provides them in lowercase</small>
 
-The lists are currently available in **33 languages**:
+The lists are currently available in **35 languages**:
 
 - Arabic
 - Armenian
@@ -42,6 +42,7 @@ The lists are currently available in **33 languages**:
 - English
 - Esperanto
 - Estonian
+- Farsi
 - Finnish
 - French
 - German
